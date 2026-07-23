@@ -1,4 +1,4 @@
-# 同人/原创写作资料辅助Agent
+# 人物写作资料辅助Agent
 
 > **Writing Research Assistant Agent** — 面向同人/原创写作者的结构化资料检索与设定生成助手
 
